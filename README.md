@@ -1,5 +1,24 @@
 # Ecommerce_Sales_Analysis
 
+
+## Business Problem:
+
+The e-commerce company, XYZ Retailers, has been experiencing a decline in overall profitability despite consistent growth in sales. The company is concerned about the diminishing profit margins and is seeking to identify the root causes of this issue. The management has provided a dataset containing detailed information about orders, customers, and products. The challenge is to conduct a comprehensive analysis to uncover insights that can help address the declining profitability and formulate strategies to improve the overall financial performance.
+
+## Specific Aspects to Address:
+
+**Profitability Decline**: Investigate the specific products, categories, and customer segments that have witnessed a decline in profitability over the past few years.
+
+**Discount Impact**: Understand the impact of discounts on both sales and profit. Identify whether excessive discounting is contributing to the decline in overall profitability.
+
+**Product Performance**: Identify which products or categories are underperforming in terms of profitability. Determine whether certain products should be promoted, re-priced, or phased out.
+
+**Geographic Analysis**: Explore regional variations in profitability. Identify regions where profit margins are lower and investigate potential reasons behind these variations.
+
+**Customer Segmentation**: Analyze the profitability of different customer segments (Consumer, Corporate). Identify which segments contribute the most to profitability and whether there are opportunities for targeted marketing or pricing strategies.
+
+**Supply Chain Efficiency**: Investigate whether delays in shipping or inefficiencies in the supply chain are impacting costs and subsequently reducing overall profitability.
+
 ## Objective:
 The E-commerce Sales Analysis project aims to provide valuable insights into the sales performance of a company's products through a comprehensive examination of the provided dataset. The dataset includes essential information such as order details, customer information, product attributes, and financial metrics.
 
