@@ -54,12 +54,116 @@ The project aims to provide actionable insights that can be used to optimize sal
 ![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/aa3b68c1-0c4d-4082-85ea-a72ac346f18c)
 
 ## Sales Analysis
-![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/887c5b8c-fce7-47c9-9d10-fa92c4c9e672)
+## Monthly Sales and Profit Analysis
 
-![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/dfc65bfa-cfcc-420f-98c8-33038a671074)
+| Month | Sales     | Profit   |
+|-------|-----------|----------|
+| Jan   | $95.37K   | $9.20K   |
+| Feb   | $60.17K   | $10.29K  |
+| Mar   | $199.25K  | $26.81K  |
+| ...   | ...       | ...      |
+| Dec   | $332.18K  | $43.44K  |
 
-![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/e89b2216-3e5b-4590-b30e-06a26f131091)
+- The months of September, November, and December exhibit the highest sales figures, contributing significantly to the overall revenue.
+- Despite variations in monthly sales, profit margins show a positive trend, with December having the highest profit.
 
-![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/d419c7a8-846e-4873-95e4-ab4051756521)
-	
-![image](https://github.com/Abhishekkaddipudi/Ecommerce_Sales_Analysis/assets/65544284/74f48fb7-0fa3-402b-8638-89fd539e6f71)
+## Category-wise Profit Distribution
+
+| Category        | Profit   |
+|-----------------|----------|
+| Technology      | $145.45K |
+| Office Supplies | $122.49K |
+| Furniture       | $18.45K  |
+
+- Technology products contribute the most to overall profitability, followed by Office Supplies.
+- Furniture products show relatively lower profitability compared to the other categories.
+
+## Sales Distribution by Category
+
+| Category        | Sales    |
+|-----------------|----------|
+| Furniture       | 32.30%   |
+| Office Supplies | 31.30%   |
+| Technology      | 36.40%   |
+
+- Technology products have the highest sales contribution, indicating their popularity among customers.
+
+## Regional Sales Analysis
+
+| State          | Sales    |
+|----------------|----------|
+| California     | $457.69K |
+| New York       | $310.88K |
+| Texas          | $170.19K |
+| ...            | ...      |
+
+- California, New York, and Texas are the top-performing states in terms of sales.
+- Some states, like Wyoming and North Dakota, have comparatively lower sales.
+
+## Top Performing Products
+
+| Product    | Sales         |
+|------------|---------------|
+| Binders    | $203,412.73   |
+| Tables     | $206,965.53   |
+| Storage    | $223,843.61   |
+| ...        | ...           |
+
+- Binders, Tables, and Storage products are the top-selling items.
+
+## Yearly Sales and Profit Trends
+
+| Year | Sales       | Profit      | Quantity | Order Count | Profit Margin |
+|------|-------------|-------------|----------|-------------|---------------|
+| 2011 | $484,247.50 | $49,543.97  | 7,581    | 1,993       | 10.23%        |
+| 2012 | $470,532.51 | $61,618.60  | 7,979    | 2,102       | 13.10%        |
+| 2013 | $608,473.83 | $81,726.93  | 9,810    | 2,580       | 13.43%        |
+| ...  | ...         | ...         | ...      | ...         | ...           |
+
+- Sales and profit have generally increased over the years.
+- The profit margin has been consistently around 13%, with a slight decrease in 2014.
+
+## Monthly Profit Margin Analysis
+
+| Month | Profit Margin |
+|-------|---------------|
+| Jan   | 9.65%         |
+| Feb   | 17.10%        |
+| Mar   | 13.45%        |
+| ...   | ...           |
+
+- February has the highest profit margin, indicating potential seasonal factors influencing profitability.
+- Monthly variations in profit margins should be further investigated for strategic decision-making.
+
+## Order Quantity and Profit Margin Analysis
+
+| Month | Quantity | Order Count | Profit Margin |
+|-------|----------|-------------|---------------|
+| Jan   | 1,500    | 387         | 9.65%         |
+| Feb   | 1,068    | 301         | 17.10%        |
+| Mar   | 2,491    | 680         | 13.45%        |
+| ...   | ...      | ...         | ...           |
+
+- March has the highest order quantity and profit margin, indicating efficient operations.
+- Order count and profit margin are positively correlated, suggesting potential efficiency improvements.
+
+## Year-over-Year Profit Comparison
+
+| Year | Profit       | Quantity | Order Count | Profit Margin  |
+|------|--------------|----------|-------------|----------------|
+| 2011 | $49,543.97   | 7,581    | 1,993       | 10.23%         |
+| 2012 | $61,618.60   | 7,979    | 2,102       | 13.10%         |
+| 2013 | $81,726.93   | 9,810    | 2,580       | 13.43%         |
+| ...  | ...          | ...      | ...         | ...            |
+
+- Profit has consistently increased year-over-year.
+- The profit margin has remained relatively stable, with a slight decline in 2014.
+
+## **Overall Recommendations:**
+- Focus on promoting high-profit-margin products.
+- Investigate and optimize discount strategies.
+- Explore reasons for variations in profit margins across different months.
+- Implement targeted marketing efforts in states with lower sales.
+- Monitor and enhance supply chain efficiency for further profitability.
+
+
